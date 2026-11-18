@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "nombre": "Tecno Auto",
+    "categoria": "Automotriz",
+    "descripcionCorta": "30% Descuento al pagar con sus tarjetas de Caja de ANDE",
+    "textoPromocion": "30% Desc",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/tecnoauto/Imagentarjetatecnoauto.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/tecnoauto/Imagentarjetatecnoauto.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/tecnoauto/Logotecnoauto.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Boutique Swarovski",
+    "categoria": "Moda y estilo",
+    "descripcionCorta": "10% Descuento en la tienda",
+    "textoPromocion": "10% Desc",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/boutiqueswarovski/Imagentarjetaswarovski.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/boutiqueswarovski/Imagentarjetaswarovski.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/boutiqueswarovski/Logoswarovski.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Opti Group",
+    "categoria": "Salud",
+    "descripcionCorta": "10% Descuento en aros y lentes.",
+    "textoPromocion": "10% Desc",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/optigroup/Imagentarjetaoptigroup.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/optigroup/Imagentarjetaoptigroup.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/optigroup/Logooptigroup.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Fórmula Kart",
+    "categoria": "Entretenimiento",
+    "descripcionCorta": "13% Descuento en los Heat.",
+    "textoPromocion": "13% Desc",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/formulakart/Imagentarjetaformulakart.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/formulakart/Imagentarjetaformulakart.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/formulakart/Logoformulakart.jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Boutique El Gimnasio",
+    "categoria": "Deportes",
+    "descripcionCorta": "10% Descuento en toda la Tienda",
+    "textoPromocion": "10% Desc",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/boutiqueelgimnasio/Imagentarjetaelgimnasio.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/boutiqueelgimnasio/Imagentarjetaelgimnasio.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/boutiqueelgimnasio/Logoboutiqueelgimnasio.jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Budget Car Rental",
+    "categoria": "Automotriz",
+    "descripcionCorta": "Obtenga precio de nuestra tarifa corporativa.",
+    "textoPromocion": "Tarifa comp.",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/rentacarbudget/Imagentarjetarentacar.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/rentacarbudget/Imagentarjetarentacar.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/rentacarbudget/Logobudget.png"
+  },
+  {
+    "id": 17,
+    "nombre": "Bikestation",
+    "categoria": "Deportes",
+    "descripcionCorta": "7% Descuento en toda la tienda.",
+    "textoPromocion": "7% Desc",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/bikestation/imagentarjetabikestation.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/bikestation/imagentarjetabikestation.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/bikestation/Logobikestation.jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Sapore Trattoria",
+    "categoria": "Restaurantes",
+    "descripcionCorta": "15% Descuento en todo el menú",
+    "textoPromocion": "15% Desc",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/saporetrattoria/Imagentarjetasaporetrattoria.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/saporetrattoria/Imagentarjetasaporetrattoria.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/saporetrattoria/Logosaporetrattoria.png"
+  },
+  {
+    "id": 20,
+    "nombre": "Pizza Hut",
+    "categoria": "Restaurantes",
+    "descripcionCorta": "Combo pasta completa: Spaguetti + Refresco + 2 Pan de Ajo + Galleta Precio convenio: ₡5,000",
+    "textoPromocion": "₡5,000",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/pizzahut/Imagentarjetapizzahut.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/pizzahut/Imagentarjetapizzahut.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/pizzahut/Logopizzahut.png"
+  },
+  {
+    "id": 21,
+    "nombre": "Mundo Mascota",
+    "categoria": "Mascotas",
+    "descripcionCorta": "15% Descuento servicos veterinarios",
+    "textoPromocion": "15% Desc",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/mundomascota/Imagentarjetamundomascota.png",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/mundomascota/Imagentarjetamundomascota.png",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/mundomascota/Logomundomascota.png"
+  },
+  {
+    "id": 25,
+    "nombre": "Bottega",
+    "categoria": "Restaurantes",
+    "descripcionCorta": "15% Descuento en las 4 tiendas",
+    "textoPromocion": "15% Desc",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/bottega/Imagentarjetabottega.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/bottega/Imagentarjetabottega.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/bottega/Logobottega.png"
+  },
+  {
+    "id": 28,
+    "nombre": "Tukis",
+    "categoria": "Entretenimiento",
+    "descripcionCorta": "5 fichas gratis por cada 20 fichas que adquiera en combo.",
+    "textoPromocion": "5 gratis",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/tukis/Imagentarjetatukis.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/tukis/Imagentarjetatukis.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/tukis/Logotukis.jpg"
+  },
+  {
+    "id": 29,
+    "nombre": "Icon",
+    "categoria": "Tecnología",
+    "descripcionCorta": "10% Descuento en accesorios",
+    "textoPromocion": "10% Desc",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/icon/Imagentarjetaicon.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/icon/Imagentarjetaicon.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/icon/Logoicon.png"
+  },
+  {
+    "id": 32,
+    "nombre": "Tico Burguesas",
+    "categoria": "Restaurantes",
+    "descripcionCorta": "Hamburguesa sencilla + empanada sencilla + refresco de 12 onz",
+    "textoPromocion": "¢2.600,00",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/ticoburguesas/Imagentarjetaticoburguesas.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/ticoburguesas/Imagentarjetaticoburguesas.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/ticoburguesas/Logoticoburguesas.jpg"
+  },
+  {
+    "id": 35,
+    "nombre": "Amo Pet",
+    "categoria": "Mascotas",
+    "descripcionCorta": "10% Descuento toda la tienda",
+    "textoPromocion": "10% Desc",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/amopet/Imagentarjetaamopet.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/amopet/Imagentarjetaamopet.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/amopet/Logoamopet.jpg"
+  },
+  {
+    "id": 39,
+    "nombre": "Yamuni",
+    "categoria": "Hogar",
+    "descripcionCorta": "15% en puntos Yamuni Club, plataforma de cliente frecuente.",
+    "textoPromocion": "15% Desc",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/yamuni/Imagentarjetayamuni.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/yamuni/Imagentarjetayamuni.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/yamuni/Logoyamuni.png"
+  },
+  {
+    "id": 40,
+    "nombre": "Funeraria del magisterio",
+    "categoria": "Servicios varios",
+    "descripcionCorta": "5% Descuento en servicios funerarios",
+    "textoPromocion": "5% Desc",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/funerariadelmagisterio/Imagentarjetafunerariadelmagisterio.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/funerariadelmagisterio/Imagentarjetafunerariadelmagisterio.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/funerariadelmagisterio/Logofunerariamagisterio.png"
+  },
+  {
+    "id": 44,
+    "nombre": "Dash",
+    "categoria": "Moda y estilo",
+    "descripcionCorta": "Envio gratis en compras superiores a ₡25,000.",
+    "textoPromocion": "Envio gratis",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/dash/Imagentarjetadash.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/dash/Imagentarjetadash.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/dash/Logodash.jpg"
+  },
+  {
+    "id": 49,
+    "nombre": "Celulares Alex",
+    "categoria": "Tecnología",
+    "descripcionCorta": "Temperado gratis al comprar célular",
+    "textoPromocion": "Temperado gratis",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/celularesalex/Imagentarjetacelularesalex.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/celularesalex/Imagentarjetacelularesalex.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/celularesalex/Logocelularesalex.png"
+  },
+  {
+    "id": 51,
+    "nombre": "Colchones Selther",
+    "categoria": "Hogar",
+    "descripcionCorta": "15% Descuento en nuestra línea de colchones.",
+    "textoPromocion": "15% Desc",
+    "urlImagen": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/selthercolchones/Imagentarjetaselthercolchones.jpg",
+    "urlImagenFondo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/selthercolchones/Imagentarjetaselthercolchones.jpg",
+    "urlLogo": "https://storageproyectosmercadeo.blob.core.windows.net/masaccesosbeneficios/comercios/selthercolchones/Logoselthercolchones"
+  }
+]
